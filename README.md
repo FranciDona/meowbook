@@ -7,4 +7,4 @@ This app has four sections:
 - Home page
 - Book selection page
 - Your main reading page with option to set background music
-- A scene selection page 
+- A chapter/scene selection page 
