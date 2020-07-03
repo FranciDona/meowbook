@@ -1,12 +1,10 @@
 # Meowbook
 
-Welcome to Meowbook! Meowbook is a digital space to create a new reading experience. 
+Welcome to Meowbook! Meowbook is your digital tool to create a new reading experience. 
 
-You can see the web app [here](https://meowbook-1a8e9.web.app/) (in progress)
+This app has four sections:
 
-The app is built in Flutter and the main code is in the lib folder.
-Currently it has four sections:
 - Home page
 - Book selection page
 - Your main reading page with option to set background music
-- A chapter/scene selection page 
+- A scene selection page 
