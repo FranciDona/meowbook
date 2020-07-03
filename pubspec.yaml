@@ -7,8 +7,7 @@ dependencies:
   http: ^0.12.0+4
   path_provider: ^1.1.0
   path_provider_macos: ^0.0.1
-  audioplayers:
-    path: ../
+  audioplayers: ^0.15.1
   provider: ^3.0.0+1
 
 dev_dependencies:
@@ -23,6 +22,9 @@ flutter:
     - assets/audio.mp3
     - assets/audio2.mp3
     - assets/messenger.mp3
+    - assets/song1.mp3
+    - assets/song2.mp3
+    - assets/song3.mp3
 
 environment:
   sdk: ">=2.0.0-dev.50.0 <3.0.0"
